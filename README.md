@@ -19,3 +19,8 @@ A estratégia é baseada no "experimental learning", que consiste em praticar e 
 ### Desafio
 
 - Fazer exercícios sobre o subtópico de maior dificuldade, por exemplo `recursão`.
+
+## Desafio da semana
+
+- Concluir o capítulo de funções.
+
